@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋 I'm Muhammad Ersa Putra Nasution
 
-<!--
-**Nasution09/Nasution09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Introduction
 
-Here are some ideas to get you started:
+Hello! I am a student who is learning Web Development.  
+I enjoy building websites and improving my programming skills step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nasution09&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Social Media
+
+- Instagram : https://mhmdersanst_.com/
+www.linkedin.com/in/muhammad-ersa-putra-nasution-a4760a38b
+---
+
+## ⚡ Fun Facts
+
+- I love learning new technology
+- I want to become a Fullstack Web Developer
+- I enjoy building websites
+
+---
+
+## 💬 Quote
+
+> "Small progress every day leads to big success."
