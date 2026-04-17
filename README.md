@@ -19,7 +19,7 @@ I enjoy building websites and improving my programming skills step by step.
 ---
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning: **Flutter, Dart, JavaScript**
+- 🌱 Currently learning: **Flutter • Dart • JavaScript • PHP**
 - 🎯 Focus: **Web & Mobile Development**
 - 🚀 Building responsive and modern UI
 - 🇮🇩 Based in Indonesia
