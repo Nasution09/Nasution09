@@ -8,10 +8,10 @@ I enjoy building websites and improving my programming skills step by step.
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/USERNAME">
+  <a href="https://linkedin.com/in/Muhammad Ersa Putra Nasution">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://instagram.com/USERNAME">
+  <a href="https://instagram.com/mhmdersanst_">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram">
   </a>
 </p>
