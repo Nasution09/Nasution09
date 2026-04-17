@@ -7,20 +7,55 @@ I enjoy building websites and improving my programming skills step by step.
 
 ---
 
-## 🚀 Skills & Tech Stack
+<p align="center">
+  <a href="https://linkedin.com/in/USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://instagram.com/USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram">
+  </a>
+</p>
 
-- HTML
-- CSS
-- JavaScript
-- Git
-- GitHub
-- VS Code
+---
+## 👨‍💻 About Me
+
+- 🌱 Currently learning: **Flutter, Dart, JavaScript**
+- 🎯 Focus: **Web & Mobile Development**
+- 🚀 Building responsive and modern UI
+- 🇮🇩 Based in Indonesia
+## 📊 GitHub Stats
 
 ---
 
+## 🛠 Tech Stack
+
+### Languages
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Dart](https://img.shields.io/badge/Dart-blue)
+
+### Frameworks
+![Flutter](https://img.shields.io/badge/Flutter-blue)
+![React](https://img.shields.io/badge/React-black)
+![NodeJS](https://img.shields.io/badge/NodeJS-green)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-red)
+![GitHub](https://img.shields.io/badge/GitHub-black)
+![VSCode](https://img.shields.io/badge/VSCode-blue)
+
+
+---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nasution09&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
