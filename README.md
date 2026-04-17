@@ -50,13 +50,12 @@ I enjoy building websites and improving my programming skills step by step.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nasution09&show_icons=true&theme=tokyonight&border_radius=15" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasution09&layout=compact&theme=tokyonight&border_radius=15" />
 </p>
-
 ---
 
 ## 🌐 Social Media
