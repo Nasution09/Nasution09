@@ -50,11 +50,11 @@ I enjoy building websites and improving my programming skills step by step.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nasution09&show_icons=true&theme=tokyonight&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nasution09&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasution09&layout=compact&theme=tokyonight&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasution09&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 ---
 
