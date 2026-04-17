@@ -30,10 +30,12 @@ I enjoy building websites and improving my programming skills step by step.
 ## 🛠 Tech Stack
 
 ### Languages
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Dart](https://img.shields.io/badge/Dart-blue)
+### Languages
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-blue)
@@ -56,12 +58,6 @@ I enjoy building websites and improving my programming skills step by step.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasution09&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
----
-
-## 🌐 Social Media
-
-- Instagram : https://mhmdersanst_.com/
-www.linkedin.com/in/muhammad-ersa-putra-nasution-a4760a38b
 ---
 
 ## ⚡ Fun Facts
