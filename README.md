@@ -14,7 +14,7 @@
 
 <!-- Elegant minimal social links -->
 <p>
-  <a href="https://linkedin.com/in/Nasution09">
+  <a href="https://www.linkedin.com/in/muhammad-ersa-putra-nasution-a4760a38b/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" height="26"/>
   </a>
   &nbsp;
@@ -22,13 +22,11 @@
     <img src="https://img.shields.io/badge/GitHub-%23161B22.svg?style=flat-square&logo=github&logoColor=white" height="26"/>
   </a>
   &nbsp;
-  <a href="https://instagram.com">
+  <a href="https://www.instagram.com/mhmdersanst_">
     <img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?style=flat-square&logo=instagram&logoColor=white" height="26"/>
   </a>
   &nbsp;
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" height="26"/>
-  </a>
+
 </p>
 
 <br/>
