@@ -124,35 +124,8 @@ const ersa = {
 
 ## 〔 GitHub Stats 〕
 
-<br/>
 
-<div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Nasution09&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=94a3b8&icon_color=64748b&text_color=cbd5e1&ring_color=475569"/>
-&nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasution09&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=94a3b8&text_color=cbd5e1"/>
-
-<br/><br/>
-
-<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nasution09&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e293b&ring=475569&fire=94a3b8&currStreakNum=e2e8f0&sideNums=cbd5e1&currStreakLabel=94a3b8&sideLabels=64748b&dates=475569"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## 〔 Trophies 〕
-
-<br/>
-
-<div align="center">
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Nasution09&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 〔 Activity 〕
 
